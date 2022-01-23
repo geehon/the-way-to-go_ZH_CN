@@ -12,8 +12,3 @@
 
 [GitHub](https://github.com/geehon/the-way-to-go_ZH_CN)
 [Get Started](./TOC.md)
-
-
-<!-- 背景图片 -->
-
-![](./cover/background.jpg)
