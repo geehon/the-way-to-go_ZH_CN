@@ -14,9 +14,9 @@
 
     <div id="app">稍等！加载中···</div>
     <script>
-        // if (typeof navigator.serviceWorker !== 'undefined') {
-        //     navigator.serviceWorker.register('sw.js')
-        // }
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('./the-way-to-go_ZH_CN/sw.js')
+        }
         window.$docsify = {
             el: '#app',
             // 导航
